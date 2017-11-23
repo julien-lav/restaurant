@@ -1,0 +1,63 @@
+/* line 3, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+body {
+  width: 1140px;
+  margin: 0 auto;
+}
+
+/* line 7, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+h1 {
+  text-align: center;
+}
+
+/* line 10, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+a {
+  text-decoration: none;
+  color: black;
+  margin: 0 15px 0 15px;
+}
+
+/* line 16, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+div {
+  padding: 30px;
+}
+
+/* line 20, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+#bloc-accueil {
+  display: block;
+}
+
+/* line 23, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+#bloc-carte {
+  display: none;
+}
+
+/* line 26, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+#bloc-photo {
+  display: none;
+}
+
+/* line 29, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+#bloc-avis {
+  display: none;
+}
+
+/* line 32, /home/julien/THP/restaurant/app/assets/stylesheets/home.scss */
+#bloc-acces {
+  display: none;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, or any plugin's
+ * vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
